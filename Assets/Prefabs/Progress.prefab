@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2819697356644582052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4972674122045536739}
+  - component: {fileID: 3411887141042794410}
+  m_Layer: 0
+  m_Name: Progress
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4972674122045536739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819697356644582052}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 119.82746, y: 29.027533, z: 5.57755}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3411887141042794410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819697356644582052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d31502252b292741932a901b88cc89d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerInfo:
+    BestPlayerScores: 0
+    NumberAdsViewedForWATERMELON: 1
+    NumberAdsViewedForSkinSTARS: 2
+    NumberAdsViewedForSHARK: 3
+    NumberAdsViewedForSAVE_TRUST: 4
+    NumberAdsViewedForRAINBOW: 5
+    SkinIsOpenWATERMELON: 0
+    SkinIsOpenSTARS: 0
+    SkinIsOpenSHARK: 0
+    SkinIsOpenSAVE_TRUST: 0
+    SkinIsOpenRAINBOW: 0
+    SkinIsOpenMINECRAFT: 0
+    SkinIsOpenMARIO: 0
+    SkinIsOpenKRENDEL: 0
+    SkinIsOpenINSIDE: 0
+    SkinIsOpenBANANA: 0
+    SkinIsOpenCANDY: 0
+    SkinIsOpenBEACH: 0
+    SkinIsOpenDONUT: 0
+    SkinIsOpenBADTRIP: 0
+    SkinIsOpenWHEEL: 0

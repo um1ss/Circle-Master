@@ -1,0 +1,16 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/LastBuild;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/Build;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuild0.4;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuild0.3;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuild0.2;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuild0.1;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuild;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuildCircleMaster0.3;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuildCircleMaster0.2;D:/Applications/ProgrammingPrograms/XAMPP/htdocs/GameBuilds/FinalBuildCircleMaster0.1\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}

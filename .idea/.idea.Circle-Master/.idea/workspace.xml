@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2582b375-0b2b-4a78-b349-0f7f0632a415" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Circle-Master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Circle-Master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1VS1/CanvasUI1VS1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/1VS1/CanvasUI1VS1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ARCADE/CanvasUIARCADE.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ARCADE/CanvasUIARCADE.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1VS1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1VS1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/PVP/UICanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/PVP/UICanvas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/YandexGame/ScriptsYG/Editor/PostProcessBuild/ModifyIndexFile/BuildLogYG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/YandexGame/ScriptsYG/Editor/PostProcessBuild/ModifyIndexFile/BuildLogYG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.connect.share/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.connect.share/Settings.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UITranslateRecords.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Launcher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/CheckingPass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIRoundEnd.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/DonutController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/SecondPlayerDonutController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/SecondPlayerCheckingPass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UICalculation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UISellectCircleSkins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIMainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scores/ScoresManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIEnableDisablePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UISkins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UISettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/FirstPlayerCheckingPass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIVibration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIVolume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventBus/EventBus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIButtonPlay1VS1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIButtonPlayARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIButtonQuitFromTableSkins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIButtonEnterToTableSkins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIHeaderPages.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/PlayerDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Donut/FirstPlayerDonutController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinsShop/PlayerSkins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinsShop/PlayerSkinItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinsShop/ShopItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Progress.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SphereManager/SphereManagerARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundsManager/SoundsManagerMainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundsManager/SoundsManagerARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundsManager/SoundsManager1VS1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Yandex.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UIMainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UIVolume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UIButtonPlayARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UIButtonPlay1VS1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIButtonExit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoresManager/ScoresManagerARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/YandexGame/WorkingData/SavesYG.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InternationalText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UIButtonEnterToTableSkins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinsManager/SkinsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Launcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Language.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ARCADE/UICalculationARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/UITranslateRecords.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ARCADE/UICanvasARCADE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PVP/UICanvas.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YIdv3U5UMmjGluzOelQkamwXZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2582b375-0b2b-4a78-b349-0f7f0632a415" name="Default Changelist" comment="" />
+      <created>1700217259053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700217259053</updated>
+      <workItem from="1700217269573" duration="9042000" />
+      <workItem from="1700238031142" duration="46000" />
+      <workItem from="1700238353468" duration="1681000" />
+      <workItem from="1700580511536" duration="7637000" />
+      <workItem from="1700654181931" duration="11165000" />
+      <workItem from="1700688225642" duration="2864000" />
+      <workItem from="1700730494102" duration="4419000" />
+      <workItem from="1700759498706" duration="7490000" />
+      <workItem from="1700832252138" duration="7408000" />
+      <workItem from="1701011980488" duration="34000" />
+      <workItem from="1702829827888" duration="2062000" />
+      <workItem from="1702990614608" duration="5959000" />
+      <workItem from="1702999408585" duration="112000" />
+      <workItem from="1703005474543" duration="10583000" />
+      <workItem from="1703017831888" duration="648000" />
+      <workItem from="1703255990989" duration="2116000" />
+      <workItem from="1703260624841" duration="1630000" />
+      <workItem from="1703500278583" duration="757000" />
+      <workItem from="1703503512989" duration="1104000" />
+      <workItem from="1703878177888" duration="1067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1700837431071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1700837431071" />
+  </component>
+</project>
